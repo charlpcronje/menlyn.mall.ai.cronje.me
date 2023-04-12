@@ -8,7 +8,7 @@
 	<div class="chat-image avatar">
 		<div class="w-10 rounded-full">
 			<img
-				src="https://ui-avatars.com/api/?name={type === 'user' ? 'Me' : 'B'}"
+				src="/{type === 'user' ? 'me' : 'bot'}.png"
 				alt="{type} avatar"
 			/>
 		</div>
