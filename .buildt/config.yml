@@ -1,0 +1,10 @@
+name: menlyn.ai.cronje.me
+id: a60abe0f-e806-413c-a9c4-b74b83cc9bce
+languages:
+  - TypeScript
+  - TSX
+extensions:
+  - .ts
+  - .cts
+  - .mts
+  - .tsx
